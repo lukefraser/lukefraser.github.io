@@ -1,0 +1,11 @@
+/* For RESUME and CONTACT pages */
+
+.main-banner {
+	color: white;
+	background: grey url('../images/fall-treess.jpg') no-repeat center;
+	/* https://www.pexels.com/photo/aerial-photography-of-a-mountain-640809/ */
+	background-size: cover;
+	padding: 2% 2%;
+	margin-bottom: 2%;
+  box-shadow: 0px 2px 5px #000;
+}
